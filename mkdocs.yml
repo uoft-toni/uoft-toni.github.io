@@ -3,19 +3,22 @@ plugins:
   - search
   - awesome-pages
 theme: 
+  logo: toni_white.png
   name: material
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: teal
+      accent: cyan
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
-      accent: light blue
+      primary: teal
+      accent: cyan
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
@@ -26,11 +29,15 @@ theme:
     #- navigation.sections
     - navigation.expand
     #- navigation.top
-
-
-#extra:
-#  social:
-#    - icon: fontawesome/branks/twitter
+markdown_extensions:
+  - attr_list
+copyright: Copyright &copy; 2022 University of Toronto, Department of Psychology 
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://www.github.com/uoft-toni
+    - icon: fontawesome/solid/map-location-dot
+      link: https://goo.gl/maps/S5vs23BHGHeHxcYY6
 #  version:
 #    provider: mike
 
