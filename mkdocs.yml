@@ -31,6 +31,9 @@ theme:
     #- navigation.top
 markdown_extensions:
   - attr_list
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 copyright: Copyright &copy; 2022 University of Toronto, Department of Psychology 
 extra:
   social:
