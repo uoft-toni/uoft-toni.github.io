@@ -1,5 +1,9 @@
 nav:
     - index.md
+    - Shortcuts:
+        - howto_stimPC.md
+        - howto_laptop.md
+        - common_issues.md
     - safety.md
     - facilities.md
     - system.md
