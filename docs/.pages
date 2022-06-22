@@ -1,8 +1,8 @@
 nav:
     - index.md
+    - safety.md
     - facilities.md
     - system.md
-    - safety.md
     - Equipment:
         - stimulus.md
         - responses.md

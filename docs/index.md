@@ -7,9 +7,6 @@ Toronto Neuroimaging Facility (ToNI) is a shared research center, dedicated to r
 [Session with laptop](howto_laptop.md){ .md-button .md-button--primary}
 [Common MRI Issues](common_issues.md){ .md-button .md-button--primary}
 
-## Facilities
-TODO: Location
-
 ## Safety and Emergencies
 Safety is our paramount concern at ToNI. Please see our general [safety policies](https://toni.psych.utoronto.ca/safety/). 
 
@@ -17,7 +14,10 @@ Safety is our paramount concern at ToNI. Please see our general [safety policies
 
     In the event of an emergency, follow these specific [emergency procedures](https://toni.psych.utoronto.ca/safety/#8).
 
-## MRI System
+## Facilities
+TODO: Location
+
+## Siemens Prisma 3T MRI System
 TODO: Quick description of Prisma. More details on separate page: [Prisma 3T](system.md)
 
 ## Peripheral equipment and accessories
