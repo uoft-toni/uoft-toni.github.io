@@ -1,17 +1,22 @@
-# Welcome to MkDocs
+# Welcome to ToNI
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Intro blurb here.
 
-## Commands
+## Facilities
+Location
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Safety
+Emergency contacts
 
-## Project layout
+## MRI System
+Quick description of Prisma. More details on separate page: [Prisma 3T](system.md)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Peripheral equipment and accessories
+* [Stimulus presentation](stimulus.md): LCD screen, ToNI's stimulus PC, using external laptop
+* [Behavioural responses](responses.md): Button boxes, joysticks, etc.
+* [Audio equipment](audio.md): OptoActive noise cancelling headphones/microphone, earbuds, etc.
+* [Eye tracking](eyetracking.md): Eyelink 1000 Plus
+* [Physiological measures](physio.md): heart reate, respiration, etc.
+
+## Data management and analysis
+[ToNI image server](echo.md)

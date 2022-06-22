@@ -1,0 +1,14 @@
+nav:
+    - index.md
+    - facilities.md
+    - system.md
+    - safety.md
+    - Equipment:
+        - stimulus.md
+        - responses.md
+        - audio.md
+        - eyetracking.md
+        - physio.md
+    - Data management:
+        - echo.md
+        - scinet.md
