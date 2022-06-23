@@ -28,5 +28,5 @@ TODO: Quick description of Prisma. More details on separate page: [Prisma 3T](sy
 * [Physiological measures](physio.md): heart reate, respiration, etc.
 
 ## Data management and analysis
-[ToNI image server](echo.md)
-[High performance computing and ToNI data](scinet.md)
+* [ToNI image server](echo.md)
+* [High performance computing and ToNI data](scinet.md)
