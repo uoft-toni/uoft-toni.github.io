@@ -17,5 +17,6 @@ graph LR
 
 
 
-## Order matters!
-The order of setup is super important to ensure that all of the input devices are properly recognized
+## Order of setup (super important!)
+The order of plugging in the different cables and configuring the response controller is super important to ensure that the input devices and Prisma triggers are properly recognized by the stimulus PC or laptop. Follow these steps exactly as they are ordered:
+
