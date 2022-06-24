@@ -1,6 +1,6 @@
 # Audio equipment
 
-## Earbuds System
+## Sensimetrics S14 Earphones System
 
 
 
