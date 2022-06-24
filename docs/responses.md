@@ -13,7 +13,7 @@ graph LR
 | response controller box | USB switch |
 | ----------------------- | ---------- |
 | ![response controller box](https://www.curdes.com/media/catalog/product/cache/8aefad00f530c176ba594b67fe26e42a/9/3/932-2011-closeup_1.jpg) | ![USB switch](https://m.media-amazon.com/images/I/61hKOEOJ2vL._AC_SX522_.jpg) |
-| ***TODO: change to real images!*** |  |
+| ***TODO: change to real images!*** 932 fORP |  |
 
 
 
