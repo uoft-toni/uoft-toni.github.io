@@ -1,4 +1,4 @@
-# MR Technologist / Level 2 User Policies
+# Level 2 user policies
 
 ## General scanning procedures
 
