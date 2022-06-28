@@ -16,3 +16,4 @@ nav:
     - Data management:
         - echo.md
         - scinet.md
+    - level2.md
