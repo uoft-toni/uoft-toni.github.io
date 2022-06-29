@@ -2,14 +2,32 @@
 
 ## General scanning procedures
 
-...TODO...
+1. Booking
 
-After completing a scan session:
-1. Transfer all data to echo
-2. Ensure that all files were successfully transferred by... (is there a standard method that is used for this? e.g., looking at number of files and total file size on disk? Or perhaps the control computer notes if there are errors in transfer?)
+2. Consenting
+
+3. Screening
+
+4. Pre-session prep
+
+5. Positioning
+
+6. Registering the participant
+
+7. Scanning
+
+8. Incidental findings check: Either during the scan session or after the session has completed, the level 2 user must perform a check of a high-resolution anatomical image (e.g., T1 weighted MPRAGE) for potential incidental findings. [See below for more details](#incidental-findings).
+
+9. Post-session clean up
+    - **Scanner room**:
+    - **Control room**:
+
+10. Data transfer to echo
+    1. Transfer all data to echo
+    2. Ensure that all files were successfully transferred by... (is there a standard method that is used for this? e.g., looking at number of files and total file size on disk? Or perhaps the control computer notes if there are errors in transfer?)
 
 ## Incidental findings
-Level 2 users assume the responsibility of checking for and reporting potential incidential findings for any scan session they are running. This includes sessions for their own projects and sessions they are running for other projects. If you are a level 2 user for a session, incidental findings reporting is your responsibility. 
+Level 2 users assume the responsibility of checking for and reporting potential incidential findings for any scan session they are running. This includes sessions for their own projects and sessions they are running for other projects.
 
 ### Incidental findings reporting
 If you find a potential incidental finding, please email [psy.mri.physicist@utoronto.ca](mailto:psy.mri.physicist@utoronto.ca) with the subject line: "ToNI incidental finding report" and include the study information (i.e., study name, participant ID number, and date) and the image series number containing the potential incidental findings. 
