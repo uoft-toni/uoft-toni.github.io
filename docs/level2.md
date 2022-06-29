@@ -2,27 +2,28 @@
 
 ## General scanning procedures
 
-1. Booking
+1. **Booking**
 
-2. Consenting
+2. **Consenting**
 
-3. Screening
+3. **Screening**
 
-4. Pre-session prep
+4. **Pre-session prep**
 
-5. Positioning
+5. **Positioning**
 
-6. Registering the participant
+6. **Registering a participant**
 
-7. Scanning
+7. **Scanning**
 
-8. Incidental findings check: Either during the scan session or after the session has completed, the level 2 user must perform a check of a high-resolution anatomical image (e.g., T1 weighted MPRAGE) for potential incidental findings. [See below for more details](#incidental-findings).
+8. **Incidental findings check:** 
+Either during the scan session or after the session has completed, the level 2 user must perform a check of a high-resolution anatomical image (e.g., T1 weighted MPRAGE) for potential incidental findings. [See below for more details](#incidental-findings).
 
-9. Post-session clean up
+9. **Post-session clean up**
     - **Scanner room**:
     - **Control room**:
 
-10. Data transfer to echo
+10. **Data transfer to echo**
     1. Transfer all data to echo
     2. Ensure that all files were successfully transferred by... (is there a standard method that is used for this? e.g., looking at number of files and total file size on disk? Or perhaps the control computer notes if there are errors in transfer?)
 
