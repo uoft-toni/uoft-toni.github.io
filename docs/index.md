@@ -3,10 +3,11 @@
 Toronto Neuroimaging Facility (ToNI) is a shared research center, dedicated to research and teaching in human neuroimaging at the University of Toronto, run by the Department of Psychology. This site provides technical documentation for using ToNI resources and is targeted to ToNI users.
 
 ## Helpful shortcuts
-[Starting a new study](newstudy.md){ .md-button .md-button--primary}
-[Session with stimulus PC](howto_stimPC.md){ .md-button .md-button--primary}
-[Session with laptop](howto_laptop.md){ .md-button .md-button--primary}
-[Common MRI Issues](common_issues.md){ .md-button .md-button--primary}
+
+[:material-rocket-launch: Starting a new study](newstudy.md){ .md-button .md-button--primary style="width:255px;margin:5px"}
+[:fontawesome-solid-circle-exclamation: Common MRI issues](common_issues.md){ .md-button .md-button--primary style="width:255px;margin:5px"}
+[:fontawesome-solid-computer: Stimulus PC session](howto_stimPC.md){ .md-button .md-button--primary style="width:255px;margin:5px"}
+[:fontawesome-solid-laptop: Laptop session](howto_laptop.md){ .md-button .md-button--primary style="width:255px;margin:5px"}
 
 ## Safety and Emergencies
 Safety is our paramount concern at ToNI. Please see our general [safety policies](https://toni.psych.utoronto.ca/safety/). 

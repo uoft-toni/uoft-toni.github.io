@@ -31,8 +31,9 @@ Either during the scan session or after the session has completed, the level 2 u
 Incidental findings are unexpected abnormalities with potential clinical significnace that are discovered during an MRI session and occur relatively frequently. For example, a review of the ABCD dataset found 21% of participants had incidental findings, 4% of which led to a clinical referral ([Li et al., 2021](https://jamanetwork.com/journals/jamaneurology/fullarticle/2777792)). At ToNI, our policy is that level 2 users assume the responsibility of checking for and reporting potential incidential findings for any scan session they are running. This includes sessions for their own projects and sessions they are running for other projects.
 
 ### How to check for incidental findings
-![incidentalfindings.jpg](incidentalfindings.jpg)
-<figcaption>Vernooij et al., 2007, Fig. 1</figcaption>
+Incidental findings require a careful check of anatomy. Some incidental findings are obvious and others are subtle (see examples below noted with white arrows). To perform a check, first look for gross anatomical abnormalities (e.g., panels D & E below). Then, carefully step through the entire brain along one axis looking for notable asymmetries in structure. 
+![IF examples](/images/incidentalfindings.jpg)
+<figcaption>Vernooij et al., 2007, Fig. 1: Examples of incidental findings from MRI</figcaption>
 
 
 ### Incidental findings reporting
