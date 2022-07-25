@@ -5,9 +5,9 @@
 ## How to use legacy Windows 7 on the stimulus PC
 !!! note
 
-    Windows 7 should be used only for existing studies or exceptional cases in which older software that does not work well with newer versions of Windows (e.g., E-Prime 2) is necessary. Given known security issues with Windows 7, we are limiting its use at ToNI. All new projects at ToNI that will use the stimulus PC should plan to have stimulus presentation methods that work with Windows 10.
+    Windows 7 should be used only for existing studies or exceptional cases in which older software that does not work with newer versions of Windows (e.g., E-Prime 2) is necessary. Given known security issues with Windows 7, we are limiting its use at ToNI. All new projects at ToNI that will use the stimulus PC should plan to have stimulus presentation methods that work with Windows 10.
 
-The stimulus PC has a legacy disk with Windows 7. To use it, you must following these instructions:
+The stimulus PC has a legacy install of Windows 7. To use it, you must following these instructions:
 
 1. Restart the stimulus PC computer.
 2. As the computer restarts, press and hold down F12 on the keyboard until a boot menu appears (see below).
@@ -21,7 +21,7 @@ Watch the video below to see how this works:
 </video>
 
 ### Windows 7 issues with BOLDscreen LCD monitor
-We have encountered an issue with Windows 7 and the BOLDscreen LCD monitor such that the image presented to the participant in the scanner is mirror flipped. If you run into this issue, press the button on the BOLDscreen controller box indicated below to flip the image: 
+We have encountered an issue with Windows 7 and the BOLDscreen LCD monitor such that the image presented to the participant in the scanner might appear mirror flipped. If you run into this issue, press the button on the BOLDscreen controller box indicated below to flip the image: 
 
 ![BOLDscreen controller box](/images/boldscreen_switch.png){: style="height:400px;padding:10px"}
 
