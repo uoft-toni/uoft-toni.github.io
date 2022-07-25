@@ -1,9 +1,10 @@
 nav:
     - index.md
     - Shortcuts:
+        - newstudy.md
+        - common_issues.md
         - howto_stimPC.md
         - howto_laptop.md
-        - common_issues.md
     - safety.md
     - facilities.md
     - system.md
