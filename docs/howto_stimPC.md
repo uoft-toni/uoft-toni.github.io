@@ -1,6 +1,8 @@
 # Session with stimulus PC
 
+## Windows 10
 
+Coming soon!
 
 ## How to use legacy Windows 7 on the stimulus PC
 !!! note
