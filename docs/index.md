@@ -25,17 +25,19 @@ Even in environments where safety is the number one priority, emergencies can ta
 
 The ToNI facility resides in the University of Toronto’s Centre for Biological Timing and Cognition, located at 325 Huron St., Toronto, ON, Canada. The centre is also connected via an alternative entrance to the first floor of the Ramsay Wright building. 
 
-![ToNI Facilities 1](/images/ToNI_facilities_1.JPG){: style="height:200px;padding:10px"}
-![ToNI Facilities 2](/images/ToNI_facilities_2.JPG){: style="height:200px;padding:10px"}
-![ToNI Facilities Map](/images/ToNI_facilities_map.png){: style="height:200px;padding:10px"}
+![ToNI Facilities 1](/images/ToNI_facilities_1.JPG){: style="height:300px;padding:10px"}
+![ToNI Facilities 2](/images/ToNI_facilities_2.JPG){: style="height:300px;padding:10px"}
+![ToNI Facilities Map](/images/ToNI_facilities_map.png){: style="height:300px;padding:10px"}
 
 Participants and researchers who do not have fob access to the building can request entry using the buzzer (located at the ToNI entrance).
 
-![ToNI Facilities Buzzer](/images/ToNI_facilities_buzzer.JPG){: style="height:200px;padding:10px"}
+![ToNI Facilities Buzzer](/images/ToNI_facilities_buzzer.JPG){: style="height:600px;padding:10px"}
 
 ## Siemens Prisma 3T MRI System
 
 In October of 2017, ToNI installed a Siemens Prisma 3T MRI scanner. The Prisma was designed by Siemens with the research community in mind. It is the fastest whole-body 3T scanner of its class that is commercially available, making it ideal for EPI imaging (both BOLD- and diffusion-weighted imaging). Our scanner enables access to the most recently developed imaging technologies, including Simultaneous Multi-Slice acquisition for faster acquisition (shorter TR and/or increased resolution). In addition, we offer the Siemens Spectroscopy Package, which bundles Single Voxel Spectroscopy, 2D Chemical Shift Imaging, 3D Chemical Shift Imaging, and syngo Spectroscopy Evaluation. We also have access to work-in-progress packages, including multi-echo acquisition for better signal in brain regions prone to susceptibility artifacts, including frontal and temporal regions. More details can be found here: [Prisma 3T](system.md)
+
+![ToNI MRI Scanner](/images/MRI_scanner_1.jpeg){: style="height:600px;padding:10px"}
 
 ## Peripheral equipment and accessories
 * [Stimulus presentation](stimulus.md): LCD screen, ToNI's stimulus PC, using external laptop
