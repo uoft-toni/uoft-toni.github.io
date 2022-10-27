@@ -25,7 +25,13 @@ Even in environments where safety is the number one priority, emergencies can ta
 
 The ToNI facility resides in the University of Toronto’s Centre for Biological Timing and Cognition, located at 325 Huron St., Toronto, ON, Canada. The centre is also connected via an alternative entrance to the first floor of the Ramsay Wright building. 
 
+![ToNI Facilities 1](/images/ToNI_facilities_1.JPG){: style="height:200px;padding:10px"}
+![ToNI Facilities 2](/images/ToNI_facilities_2.JPG){: style="height:200px;padding:10px"}
+![ToNI Facilities Map](/images/ToNI_facilities_map.png){: style="height:200px;padding:10px"}
+
 Participants and researchers who do not have fob access to the building can request entry using the buzzer (located at the ToNI entrance).
+
+![ToNI Facilities Buzzer](/images/ToNI_facilities_buzzer.JPG){: style="height:200px;padding:10px"}
 
 ## Siemens Prisma 3T MRI System
 
