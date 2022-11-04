@@ -23,11 +23,11 @@ Additional hands-on training sessions can be offered based on the user’s needs
 
 ## General scanning procedures
 
-1. **Booking**
+**Booking**
 
-2. **Consenting**
+**Consenting**
 
-3. **Screening**
+**Screening**
 
 Screen anyone entering Zone 3. Verbal screening will suffice for entry to zone 3.
 
@@ -35,7 +35,7 @@ Screening forms + verbal screening should be completed by anyone wishing to ente
 
 Remove all metal before entering MRI room (check hair for bobby pins, clips, etc. No jewelry that is not non-ferromagnetic should be worn by the those entering the room (ex: gold, silver, stainless steel), empty pockets.
 
-4. **Pre-session prep**
+**Pre-session prep**
 
 Experiment PC
 - Turn on the BOLD screen
@@ -47,7 +47,7 @@ Console Table
 - NO LIQUIDS on the MRI console table
 
 
-5. **Positioning**
+**Positioning**
 
 Positioning the participant
 - Give hair net and earplugs
@@ -64,7 +64,7 @@ Knee cushion to maximize comfort
 - Ensure that the participant is comfortable before leaving the room
 
 
-6. **Registering a participant**
+**Registering a participant**
 
 Registration
 - Last name & Pt ID: Project ID_Subject ID_YYYYMMDD
@@ -73,7 +73,7 @@ Registration
 - Select the right protocol
 
 
-7. **Scanning**
+**Scanning**
 
 Planning
 - Check scan notes for the prescription
@@ -99,14 +99,14 @@ Emergency Procedures
 Other Reminders 
 - Lock the MRI door whenever leaving the area (push the door to make sure it’s locked) and store the key in the lock box
 
-8. **Incidental findings check:** 
+**Incidental findings check:** 
 Either during the scan session or after the session has completed, the level 2 user ***must*** check a high-resolution anatomical image (e.g., T1-weighted MPRAGE) for potential incidental findings. [See below for more details](#incidental-findings).
 
-9. **Post-session clean up**
+**Post-session clean up**
     - **Scanner room**:
     - **Control room**:
 
-10. **Data transfer to echo**
+**Data transfer to echo**
     1. Transfer all data to echo
     2. Ensure that all files were successfully transferred by... (is there a standard method that is used for this? e.g., looking at number of files and total file size on disk? Or perhaps the control computer notes if there are errors in transfer?)
 
