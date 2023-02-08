@@ -22,7 +22,8 @@ Currently, data export to Echo from the scanner control computer is a manual pro
 ## Transferring from Echo 
 Echo is accessible for data transfers via Secure FTP (sFTP). Users starting their first study will have an account created for them on Echo. The details for this account (i.e., username, temporary password, URL and port number) will be sent to the user. There are several methods for connecting to Echo's sFTP instance: 
 
-### Terminal commands (macOS, Linux)
+### Terminal commands
+Both macOS and Linux come with terminal commands for connecting to and transferring files from sFTP servers. For Windows, Powershell and and cygwin offer command line options for interacting with sFTP servers, however the syntax of specific commands may differ. The steps below describe typical terminal commands to use for macOS and Linux:
 1. In a terminal, navigate to the location where you wish your files (or folder) to be downloaded.
 2. Enter the following command: <br /> `sftp -P [PORT NUMBER] [YOUR USERID]@echo.toni.psych.utoronto.ca`
 3. Enter your password when prompted
@@ -31,15 +32,17 @@ Echo is accessible for data transfers via Secure FTP (sFTP). Users starting thei
 6. Enter the command: `get –r [folder]`
 Where [folder] is the name of the new folders you wish to download, including subfolders and files (e.g. “000_20170229”). You may also use asterisk “*” as a wildcard.
 
-### SFTP apps (Windows, macOS)
-There are many applications with graphical interfaces for connected to SFTP servers. Here are examples for different operation systems:
+### sFTP apps
+There are several applications with graphical interfaces for connected to sFTP servers. Here are two examples:
 * Windows: WinSCP - [https://winscp.net/eng/download.php](https://winscp.net/eng/download.php)
 * macOS: CyberDuck - [https://cyberduck.io/](https://cyberduck.io/)
 
-Each application is a little different, but all will offer the option of making a new connection (or adding a new server). Here's the information you will need:
+Each application is a little different, but all will offer the option of making a new connection (or adding a new server). Here's the information you will need to make the connection to Echo:
 * File protocol: SFTP (or Secure FTP)
 * Host name: echo.toni.psych.utoronto.ca
 * Port number: The port number emailed to you when your account was created
 * Username: Your username from the account creation email
 * Password: Your password
-Once this information has been entered, you should be able to log in to Echo. After logging in, navigate to your study's data directory by opening DICOMS and finding your study name. In these apps, you can copy folders and files from Echo to your computer with drag and drop actions. Depending on the app, you may be able to set up automatic data transfers, check your apps documentation. 
+Once this information has been entered, you should be able to log in to Echo. After logging in, navigate to your study's data directory by opening DICOMS and finding the directory with your study name. In these apps, you can copy folders and files from Echo to your computer with drag and drop actions. Depending on the app, you may be able to set up automatic data transfers, check your app's documentation. 
+
+
