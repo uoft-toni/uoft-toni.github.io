@@ -24,7 +24,7 @@ Echo is accessible for data transfers via Secure FTP (sFTP). Users starting thei
 
 ### Terminal commands (macOS, Linux)
 1. In a terminal, navigate to the location where you wish your files (or folder) to be downloaded.
-2. Enter the following command: `sftp -P [PORT NUMBER] [YOUR USERID]@echo.toni.psych.utoronto.ca`
+2. Enter the following command: <br /> `sftp -P [PORT NUMBER] [YOUR USERID]@echo.toni.psych.utoronto.ca`
 3. Enter your password when prompted
 4. Change to the “DICOMS” folder: `cd DICOMS`
 5. Each study has its own folder inside DICOMS. You will be able to see other study folder names but not their contents. You will only have the ability to see images in the folder related to your study. Navigate to the directory for your study: `cd [STUDY NAME]`
