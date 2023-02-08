@@ -47,5 +47,5 @@ In October of 2017, ToNI installed a Siemens Prisma 3T MRI scanner. The Prisma w
 * [Physiological measures](physio.md): heart reate, respiration, etc.
 
 ## Data management and analysis
-* [ToNI image server](echo.md)
+* [ToNI's Echo data server](echo.md)
 * [High performance computing and ToNI data](scinet.md)
