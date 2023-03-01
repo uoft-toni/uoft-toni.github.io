@@ -46,10 +46,10 @@ markdown_extensions:
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
 
-copyright: Copyright &copy; 2022 University of Toronto, Department of Psychology 
+copyright: Copyright &copy; 2023 University of Toronto, Department of Psychology 
 extra:
   social:
-    - icon: fontawesome/brands/twitter
+    - icon: fontawesome/brands/github
       link: https://www.github.com/uoft-toni
     - icon: fontawesome/solid/map-location-dot
       link: https://goo.gl/maps/S5vs23BHGHeHxcYY6
