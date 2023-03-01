@@ -1,4 +1,4 @@
-#### The ToNI facility resides in the University of Toronto’s Centre for Biological Timing and Cognition, located at 325 Huron St., Toronto, ON, Canada. The centre is also connected via an alternative entrance to the first floor of the Ramsay Wright building. 
+**The ToNI facility resides in the University of Toronto’s Centre for Biological Timing and Cognition, located at 325 Huron St., Toronto, ON, Canada. The centre is also connected via an alternative entrance to the first floor of the Ramsay Wright building.**
 
 ![ToNI MRI Scanner](/images/MRI_scanner_1.jpeg){: style="height:600px;padding:10px"}
 
@@ -14,10 +14,10 @@ ToNI maintains a variety of ancillary and peripheral systems for presenting stim
 * [Behavioural responses](responses.md): We routinely collect behavioral responses during fMRI experiments, using different button boxes and a joystick. The buttons emulate key presses on the computer. Our standard button box is a 4-button keypad that has been specially designed for use in an MR scanner (Current Designs, HHSC-1X4-CR). We also have a bimanual option in the form of two 4-button hand-held response pads (Current Designs, HHSC-2X4-N4), as well as a hand-held joystick response device (Current Designs, HHSC-JOY-5).
 * [Audio equipment](audio.md): Auditory stimulation can be delivered to a subject in the MRI scanner in several ways. One option is the conventional Siemens air-driven headset. In addition, for auditory experiments requiring a very flat frequency response and fine control of low-level auditory characteristics, the center has a set of in-ear MRI-compatible headphones (Sensimetrics, model S14) that have been modified to provide excellent isolation from scanner noise. The earphones are small enough to fit within a small head coil, including our 32- and 64-channel head coils.
 * [Eye tracking](eyetracking.md): Eye-position is routinely monitored in the MRI scanner with an infrared camera equipped with a telephoto lens, designed specially for use in the MRI scanner (SR Research, EyeLink 1000 Plus). The system consists of a camera, mirror system, and dedicated host computer running the EyeLink OS. The camera that rests in the bore of the scanner is focused on either eye, first through a two-way coated ‘hot’ mirror that allows the camera to see the eye while appearing transparent to the subject, and then through the same mirror that subjects use to view the visual display. The specifications on this system are as follows:
-- Sampling and output rates: 500/1000/2000 Hz
-- System accuracy: 0.25 – 0.5 degrees of visual angle
-- Visual angle resolution: less than 0.01 degrees of visual angle
-- Tracking range: 32 degrees horizontally, 25 degrees vertically.
+    - Sampling and output rates: 500/1000/2000 Hz
+    - System accuracy: 0.25 – 0.5 degrees of visual angle
+    - Visual angle resolution: less than 0.01 degrees of visual angle
+    - Tracking range: 32 degrees horizontally, 25 degrees vertically.
 * [Physiological measures](physio.md): Complex physiological signals in the MRI can be collected using the Biopac system available at ToNI. This system permits the acquisition of several physiological signals, including: Electrocardiogram (ECG), Electromyogram (EMG), Respiration, blood pressure, and Electrodermal activities such as Galvanic skin response (GSR). These signals can serve as valuable measures of nervous system function in different experimental designs. Electrical stimulation is also available for constant current and constant voltage electrical stimulation. Collected data can be analyzed using Acqknowledge software, which provides an environment to view, record, analyze, and transfer data. Cardiac signal can also be recorded using Siemens Bluetooth-enabled pulse oximeter that clips to the index finger of the subject. Respiration can be recorded using a Siemens pneumatic respiratory belt. These physiological signals may be used to correct for artifacts, physiological alterations, induced field inhomogeneity, or interference with the experiment.
 
 ![ToNI Mock Scanner](/images/mock_scanner.jpg){: style="height:600px;padding:10px"}
