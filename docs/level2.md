@@ -123,4 +123,6 @@ Incidental findings require a careful check of anatomy. Some incidental findings
 If you find a potential incidental finding, please email [psy.mri.physicist@utoronto.ca](mailto:psy.mri.physicist@utoronto.ca) with the subject line: "ToNI incidental finding report" and include the study information (i.e., study name, participant ID number, and date) and the image series number containing the potential incidental findings. 
 
 ## Control computer disk usage
-The control computer has limited disk space for holding recently collected data. The data policy at ToNI is that after data from a scan session has been successfully tranferred to echo, the data on the control computer will remain for 30 days, after which it can be deleted. In this 30 day window, it is the responsibility of each project's users to confirm that the data transferred to echo is complete and without errors.
+The control computer has limited disk space for holding recently collected data. The data policy at ToNI is that after data from a scan session has been successfully tranferred to echo, ==the data on the control computer will remain for 14 days, after which it can be deleted==. In this 14 day window, it is the responsibility of each project's users to confirm that the data transferred to echo is complete and without errors.
+
+
